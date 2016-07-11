@@ -29,7 +29,7 @@ Good Luck！ Nice Guy
     DDL：9月2日23时59分59秒。
 
     学习资料：可以使用任意的一本介绍设计模式的书，推荐《HeadF irst设计模式》这本书，
-    电子版下载地址：https://pan.baidu.com/s/1kVNdnrL
+    电子版下载地址：[https://pan.baidu.com/s/1kVNdnrL](https://pan.baidu.com/s/1kVNdnrL)
     密码: ish4
 
     但我比较推荐买实体版的，电子版看着不方便，而且这本书很不错，所以买实体版不会亏的。
